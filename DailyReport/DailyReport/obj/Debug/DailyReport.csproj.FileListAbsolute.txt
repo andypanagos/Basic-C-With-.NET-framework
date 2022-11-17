@@ -1,0 +1,6 @@
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\DailyReport\DailyReport\bin\Debug\DailyReport.exe.config
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\DailyReport\DailyReport\bin\Debug\DailyReport.exe
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\DailyReport\DailyReport\bin\Debug\DailyReport.pdb
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\DailyReport\DailyReport\obj\Debug\DailyReport.csproj.CoreCompileInputs.cache
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\DailyReport\DailyReport\obj\Debug\DailyReport.exe
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\DailyReport\DailyReport\obj\Debug\DailyReport.pdb
