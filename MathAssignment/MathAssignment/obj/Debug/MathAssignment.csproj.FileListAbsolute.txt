@@ -1,0 +1,7 @@
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\MathAssignment\MathAssignment\bin\Debug\MathAssignment.exe.config
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\MathAssignment\MathAssignment\bin\Debug\MathAssignment.exe
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\MathAssignment\MathAssignment\bin\Debug\MathAssignment.pdb
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\MathAssignment\MathAssignment\obj\Debug\MathAssignment.csproj.AssemblyReference.cache
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\MathAssignment\MathAssignment\obj\Debug\MathAssignment.csproj.CoreCompileInputs.cache
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\MathAssignment\MathAssignment\obj\Debug\MathAssignment.exe
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\MathAssignment\MathAssignment\obj\Debug\MathAssignment.pdb
