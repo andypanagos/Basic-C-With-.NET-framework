@@ -1,0 +1,7 @@
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\BooleanAssignment\BooleanAssignment\obj\Debug\BooleanAssignment.csproj.AssemblyReference.cache
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\BooleanAssignment\BooleanAssignment\obj\Debug\BooleanAssignment.csproj.CoreCompileInputs.cache
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\BooleanAssignment\BooleanAssignment\bin\Debug\BooleanAssignment.exe.config
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\BooleanAssignment\BooleanAssignment\bin\Debug\BooleanAssignment.exe
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\BooleanAssignment\BooleanAssignment\bin\Debug\BooleanAssignment.pdb
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\BooleanAssignment\BooleanAssignment\obj\Debug\BooleanAssignment.exe
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\BooleanAssignment\BooleanAssignment\obj\Debug\BooleanAssignment.pdb
