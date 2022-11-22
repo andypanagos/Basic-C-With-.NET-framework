@@ -11,25 +11,57 @@ namespace BooleanAssignment
         static void Main(string[] args)
         {
 
-            int age, ticket;
+
 
             Console.WriteLine("What is your age?");
-            age = int.Parse(Console.ReadLine());
+            int x;
 
+            x = Convert.ToInt32(Console.ReadLine());
+            bool TrueOrFalse = x > 15;
 
+            string dui = null;
             Console.WriteLine("Have you ever had a DUI?");
-            Console.ReadLine();
+            dui = Console.ReadLine();
+            if (dui == "no")
+            {
+                Console.WriteLine("False");
+            }
+            else if (dui == "yes")
+            {
+                Console.WriteLine("");
+            }
+
 
             Console.WriteLine("How many speeding tickets have you had?");
-            ticket = int.Parse(Console.ReadLine());
+            int ticket;
 
-            Console.WriteLine("Qualified?");
+            ticket = Convert.ToInt32(Console.ReadLine());
+            bool YesOrNo = ticket <= 3;
+
             Console.ReadLine();
 
-            bool dui = false;
-            bool T = ticket <= 1;
-            bool qualified = (age >= 15 || dui || T);
-            Console.WriteLine(qualified);
+            if (x > 15)
+                if(dui == "no")
+                    if(ticket <= 3)
+                    {
+                        Console.WriteLine("Qualified.");
+                    }
+
+                    else if (ticket <= 3)
+                    {
+                        Console.WriteLine("Not Qualified");
+
+                    }
+                    
+                    else if (dui == "yes")
+                    {
+                        Console.WriteLine("Not Qualified");
+                    }
+            if (x < 15)
+            {
+                Console.WriteLine("Not Qualified");
+            }
+
             Console.ReadLine();
         }
     }
