@@ -14,55 +14,28 @@ namespace BooleanAssignment
 
 
             Console.WriteLine("What is your age?");
-            int x;
+            string answer = Console.ReadLine();
+            int age = Convert.ToInt32(answer);
 
-            x = Convert.ToInt32(Console.ReadLine());
-            bool TrueOrFalse = x > 15;
+            
 
-            string dui = null;
-            Console.WriteLine("Have you ever had a DUI?");
-            dui = Console.ReadLine();
-            if (dui == "no")
-            {
-                Console.WriteLine("False");
-            }
-            else if (dui == "yes")
-            {
-                Console.WriteLine("");
-            }
-
+            
+            Console.WriteLine("Have you ever had a DUI? \n Please answer True or False.");
+            string duiAnswer = Console.ReadLine();
+            bool dui = Convert.ToBoolean(duiAnswer);
+            
 
             Console.WriteLine("How many speeding tickets have you had?");
-            int ticket;
+            string speeding = Console.ReadLine();
+            int ticket = Convert.ToInt32(speeding);
 
-            ticket = Convert.ToInt32(Console.ReadLine());
-            bool YesOrNo = ticket <= 3;
+            Console.WriteLine("Are you qualified?");
 
+            bool qualified = (age > 15 && dui == false && ticket <= 3);
+            Console.WriteLine(qualified);
             Console.ReadLine();
 
-            if (x > 15)
-                if(dui == "no")
-                    if(ticket <= 3)
-                    {
-                        Console.WriteLine("Qualified.");
-                    }
-
-                    else if (ticket <= 3)
-                    {
-                        Console.WriteLine("Not Qualified");
-
-                    }
-                    
-                    else if (dui == "yes")
-                    {
-                        Console.WriteLine("Not Qualified");
-                    }
-            if (x < 15)
-            {
-                Console.WriteLine("Not Qualified");
-            }
-
-            Console.ReadLine();
+            
         }
     }
 }
