@@ -25,12 +25,12 @@ namespace Dowhile
                         break;
 
                     case int n when n >= 81:
-                        Console.WriteLine("It's too warm!");
+                        Console.WriteLine("its hot");
                         isMatch = false;
                         break;
 
                     case int n when n <= 79:
-                        Console.WriteLine("It's too cold!");
+                        Console.WriteLine("its cold");
                         isMatch = false;
                         break;
                 }
