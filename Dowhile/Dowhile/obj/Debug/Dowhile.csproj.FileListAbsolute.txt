@@ -1,0 +1,6 @@
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Dowhile\Dowhile\bin\Debug\Dowhile.exe.config
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Dowhile\Dowhile\bin\Debug\Dowhile.exe
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Dowhile\Dowhile\bin\Debug\Dowhile.pdb
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Dowhile\Dowhile\obj\Debug\Dowhile.csproj.CoreCompileInputs.cache
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Dowhile\Dowhile\obj\Debug\Dowhile.exe
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Dowhile\Dowhile\obj\Debug\Dowhile.pdb
