@@ -15,6 +15,8 @@ namespace Branching_Assignment
             if (packweight > 50)
             {
                 Console.WriteLine("Package too heavy to be shipped via Package Express. Have a good day");
+                Console.ReadLine();
+                return;
             }
 
             Console.WriteLine("What is your package height?");
@@ -29,6 +31,8 @@ namespace Branching_Assignment
             if (packlength + packheight > 50)
             {
                 Console.WriteLine("Package too big to be shipped via Package Express.");
+                Console.ReadLine();
+                return;
             }
 
             decimal quote = Convert.ToDecimal((packheight * packlength * packwidth) / 100);
