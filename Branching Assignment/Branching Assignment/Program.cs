@@ -28,7 +28,7 @@ namespace Branching_Assignment
             Console.WriteLine("What is your package width?");
             int packwidth = Convert.ToInt32(Console.ReadLine());
 
-            if (packlength + packheight > 50)
+            if (packlength + packheight + packwidth > 50)
             {
                 Console.WriteLine("Package too big to be shipped via Package Express.");
                 Console.ReadLine();
