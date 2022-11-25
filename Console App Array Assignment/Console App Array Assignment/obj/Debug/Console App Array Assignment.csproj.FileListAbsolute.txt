@@ -1,0 +1,6 @@
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Console App Array Assignment\Console App Array Assignment\bin\Debug\Console App Array Assignment.exe.config
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Console App Array Assignment\Console App Array Assignment\bin\Debug\Console App Array Assignment.exe
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Console App Array Assignment\Console App Array Assignment\bin\Debug\Console App Array Assignment.pdb
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Console App Array Assignment\Console App Array Assignment\obj\Debug\Console App Array Assignment.csproj.CoreCompileInputs.cache
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Console App Array Assignment\Console App Array Assignment\obj\Debug\Console App Array Assignment.exe
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Console App Array Assignment\Console App Array Assignment\obj\Debug\Console App Array Assignment.pdb
