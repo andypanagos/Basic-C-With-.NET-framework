@@ -1,0 +1,7 @@
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Method Sub Assignment\Method Sub Assignment\bin\Debug\Method Sub Assignment.exe.config
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Method Sub Assignment\Method Sub Assignment\bin\Debug\Method Sub Assignment.exe
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Method Sub Assignment\Method Sub Assignment\bin\Debug\Method Sub Assignment.pdb
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Method Sub Assignment\Method Sub Assignment\obj\Debug\Method Sub Assignment.csproj.AssemblyReference.cache
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Method Sub Assignment\Method Sub Assignment\obj\Debug\Method Sub Assignment.csproj.CoreCompileInputs.cache
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Method Sub Assignment\Method Sub Assignment\obj\Debug\Method Sub Assignment.exe
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Method Sub Assignment\Method Sub Assignment\obj\Debug\Method Sub Assignment.pdb
