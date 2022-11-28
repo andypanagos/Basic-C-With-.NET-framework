@@ -1,0 +1,7 @@
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Class Sub Assignment\Class Sub Assignment\bin\Debug\Class Sub Assignment.exe.config
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Class Sub Assignment\Class Sub Assignment\bin\Debug\Class Sub Assignment.exe
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Class Sub Assignment\Class Sub Assignment\bin\Debug\Class Sub Assignment.pdb
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Class Sub Assignment\Class Sub Assignment\obj\Debug\Class Sub Assignment.csproj.AssemblyReference.cache
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Class Sub Assignment\Class Sub Assignment\obj\Debug\Class Sub Assignment.csproj.CoreCompileInputs.cache
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Class Sub Assignment\Class Sub Assignment\obj\Debug\Class Sub Assignment.exe
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Class Sub Assignment\Class Sub Assignment\obj\Debug\Class Sub Assignment.pdb
