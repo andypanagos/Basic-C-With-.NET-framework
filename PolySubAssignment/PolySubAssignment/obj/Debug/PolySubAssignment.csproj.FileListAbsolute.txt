@@ -1,0 +1,6 @@
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\PolySubAssignment\PolySubAssignment\bin\Debug\PolySubAssignment.exe.config
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\PolySubAssignment\PolySubAssignment\bin\Debug\PolySubAssignment.exe
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\PolySubAssignment\PolySubAssignment\bin\Debug\PolySubAssignment.pdb
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\PolySubAssignment\PolySubAssignment\obj\Debug\PolySubAssignment.csproj.CoreCompileInputs.cache
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\PolySubAssignment\PolySubAssignment\obj\Debug\PolySubAssignment.exe
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\PolySubAssignment\PolySubAssignment\obj\Debug\PolySubAssignment.pdb
