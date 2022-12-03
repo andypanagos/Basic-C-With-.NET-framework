@@ -16,14 +16,16 @@ namespace Strings_and_Integers
             
             //ask for number to divide list numbers by
 
-            Console.WriteLine("Please enter an even number less than 10.");
-            int evenNum = Convert.ToInt32(Console.ReadLine());
+            
 
             //try catch: divides each number in the list by the user input number
             
             try
             {
-                foreach(int num in intList)
+                Console.WriteLine("Please enter an even number less than 10.");
+                int evenNum = Convert.ToInt32(Console.ReadLine());
+
+                foreach (int num in intList)
                 {
                     Console.WriteLine(num + " divided by " + evenNum + " equals: " + num / evenNum);
                 }
@@ -40,6 +42,8 @@ namespace Strings_and_Integers
             {
                 Console.ReadLine();
             }
+            Console.WriteLine("The program has emerged from the try/catch block... continuing on with program execution.");
+            Console.ReadLine();
             //catch statements
         }
     }
