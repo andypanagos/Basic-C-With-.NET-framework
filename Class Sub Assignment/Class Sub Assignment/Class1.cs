@@ -14,6 +14,8 @@ namespace Class_Sub_Assignment
             int num1 = (num / 2);
             Console.WriteLine(num1);
         }
+        
+        
 
         //method with output parameters
         public void Math2(out int numOut)
@@ -22,9 +24,9 @@ namespace Class_Sub_Assignment
         }
 
         //Overload double method
-        public void Math3(double num2)
+        public void Math1(double num)
         {
-            double numdub = num2 / 4;
+            double numdub = (num / 4);
             Console.WriteLine(numdub);
         }
     }

@@ -29,7 +29,7 @@ namespace Class_Sub_Assignment
             
             double y = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("your decimal number divided by 4 is: ");
-            secondClass.Math3(y);
+            secondClass.Math1(y);
 
 
             Console.ReadLine();
