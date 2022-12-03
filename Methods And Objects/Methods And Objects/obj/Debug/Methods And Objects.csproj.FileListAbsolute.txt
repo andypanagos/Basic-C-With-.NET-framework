@@ -1,0 +1,7 @@
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Methods And Objects\Methods And Objects\bin\Debug\Methods And Objects.exe.config
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Methods And Objects\Methods And Objects\bin\Debug\Methods And Objects.exe
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Methods And Objects\Methods And Objects\bin\Debug\Methods And Objects.pdb
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Methods And Objects\Methods And Objects\obj\Debug\Methods And Objects.csproj.AssemblyReference.cache
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Methods And Objects\Methods And Objects\obj\Debug\Methods And Objects.csproj.CoreCompileInputs.cache
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Methods And Objects\Methods And Objects\obj\Debug\Methods And Objects.exe
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Methods And Objects\Methods And Objects\obj\Debug\Methods And Objects.pdb
