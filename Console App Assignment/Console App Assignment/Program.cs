@@ -22,8 +22,8 @@ namespace Console_App_Assignment
             stringArray.Add("sprite");
             stringArray.Add("ginger ale");
 
-            do
-            {
+            //do
+            //{
                 Console.WriteLine("What is your name?: ");
                 string name = Console.ReadLine();
 
@@ -31,28 +31,16 @@ namespace Console_App_Assignment
                 int number = Convert.ToInt32(Console.ReadLine());
                 //loop that iterates through string array and checks if soda name given is in array
                 //else, displays user name with favorite soda
-                if (number >= stringArray.Count)
+                for (int i = 0; i < stringArray.Count; i++)
                 {
-                    Console.WriteLine("Index choice error. " + number + " is does not exist.");
-
+                    stringArray[i] += " is your favorite soda, " + name;
+                break;
                 }
-                else
+                for (int x = 0; x < stringArray.Count; x++)
                 {
-                    Console.WriteLine(name + ", your favorite soda is: " + stringArray[number]);
-                    Console.WriteLine("Press N to move on or Enter to restart");
+                    Console.WriteLine(stringArray[x]);
                 }
-
-            }
-            while (Console.ReadLine() != "n");
-
-
-
-            foreach (string soda in stringArray)
-            {
-                Console.WriteLine(soda);
-            }
             Console.ReadLine();
-
 
             //part 2: Infitinte loop and Fix
 
@@ -65,11 +53,10 @@ namespace Console_App_Assignment
             for (int loop = 0; loop < stringArray.Count; loop++)
             {
                 Console.WriteLine(loop);
+                break;
             }
 
-            //Part 3: A loop where the comparison that’s used to determine whether
-            //to continue iterating the loop is a “<” operator.
-
+            //part 3: using <=
             int[] orderAmount = { 4, 9, 5, 8, 7, 12, 3, 11, 10 };
 
             for (int i = 0; i < orderAmount.Length; i++)
@@ -82,22 +69,15 @@ namespace Console_App_Assignment
             }
             Console.ReadLine();
 
-            //loop using <=
 
-            List<int> orderAmount2 = new List<int>();
-            orderAmount2.Add(8);
-            orderAmount2.Add(9);
-            orderAmount2.Add(4);
-            orderAmount2.Add(11);
-            orderAmount2.Add(13);
 
-            foreach (int order in orderAmount2)
+            int[] arrayTwo = { 4, 6, 3, 77, 5 };
+
+            for ( int y = 0; y <= 5; y++)
             {
-                if (order <= 10)
-                {
-                    Console.WriteLine("Orders with 10 or less items: " + order);
-                }
-                Console.ReadLine();
+                Console.WriteLine("using less than or equal to sign to determine whether to continure iterating loop");
+                break;
+
             }
 
             //Part 4: A list of strings where each item in the list is unique.
@@ -130,6 +110,7 @@ namespace Console_App_Assignment
                     {
                         result = i;
                         playerSearch = true;
+                        break;
                     }
                 }
                 //Printing to the console the index of the player provided by the user
@@ -162,9 +143,11 @@ namespace Console_App_Assignment
 
 
 
-            foreach (string name in names)
+            for (int i = 0; i < names.Count; i++)
             {
-                Console.WriteLine(name);
+                string name2 = names[i];
+                Console.WriteLine(name2);
+               
             }
 
             // Flag
