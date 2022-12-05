@@ -14,13 +14,13 @@ namespace Main_Method
 
             return results;
         }
-        public int Math2(double num1)
+        public int Math2(decimal num2)
         {
-            int results = Convert.ToInt32(num1);
-            int answer = results / 5;
-            return answer;
+            int results = Convert.ToInt32(num2);
+            int answer2 = results / 5;
+            return answer2;
 
-            return results;
+            
         }
         public int Math3(string num1)
         {
