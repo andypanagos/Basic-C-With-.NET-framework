@@ -14,15 +14,19 @@ namespace Main_Method
 
             return results;
         }
-        public decimal Math2(decimal num1)
+        public int Math2(double num1)
         {
-            decimal results = num1 / 5;
+            int results = Convert.ToInt32(num1);
+            int answer = results / 5;
+            return answer;
 
             return results;
         }
         public int Math3(string num1)
         {
-            int results = Convert.ToInt32(num1) + 100;
+            int results = Convert.ToInt32(num1);
+            int answer2 = results + 100;
+            return answer2;
 
 
             return results;
