@@ -10,14 +10,13 @@ namespace Datetime
     {
         static void Main(string[] args)
         {
+
             Console.WriteLine(DateTime.Now);
-            Console.WriteLine("\n");
 
-            Console.WriteLine("Please Enter a number: ");
-            int x = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("please enter a number: ");
+            double userInput = Convert.ToDouble(Console.ReadLine());
 
-
-
+            Console.WriteLine("in " + userInput + " hours it will be " + DateTime.Now.AddHours(userInput));
             Console.ReadLine();
 
         }
