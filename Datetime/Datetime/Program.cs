@@ -14,9 +14,9 @@ namespace Datetime
             Console.WriteLine(DateTime.Now);
 
             Console.WriteLine("please enter a number: ");
-            double userInput = Convert.ToDouble(Console.ReadLine());
+            int x = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("in " + userInput + " hours it will be " + DateTime.Now.AddHours(userInput));
+            Console.WriteLine("in " + x + " hours it will be " + DateTime.Now.AddHours(x));
             Console.ReadLine();
 
         }
