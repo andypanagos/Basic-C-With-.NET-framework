@@ -10,30 +10,20 @@ namespace Main_Method
     {
         static void Main(string[] args)
         {
-            int num1 = 50;
-
             Math mathOperations = new Math();
-            
 
-            int answer1 = mathOperations.Math1(num1);
-            Console.WriteLine("50 plus 50 equals: " + answer1);
+            Console.WriteLine("50 plus 50 is: " + mathOperations.Math1(50));
+
+            Math mathOperations2 = new Math();
+
+            Console.WriteLine("53.6 divided by 5 is: " + mathOperations2.Math1(53.6));
+
+            Math mathOperations3 = new Math();
+
+            Console.WriteLine("String value of twenty plus 100 is: " + mathOperations3.Math1("20"));
+
             Console.ReadLine();
-
-            //Math mathOperations2 = new Math();
-            //Console.WriteLine("50 divided by 5 equals: " + mathOperations2.Math2(50.5));
-            
-
-            decimal num2 = 50;
-            int answer2 = mathOperations.Math2(num2);
-            Console.WriteLine("50 divided by 5 equals: " + answer2);
-            Console.ReadLine();
-
-
-            int answer3 = mathOperations.Math3("50");
-            Console.WriteLine("50 plus 100 equals: " + answer3);
-            Console.ReadLine();
-
-  
         }
+        
     }
 }

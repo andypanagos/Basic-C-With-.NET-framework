@@ -10,26 +10,26 @@ namespace Main_Method
     {
         public int Math1(int num1)
         {
-            int results = num1 + 50;
+            int answer = num1 + 50;
 
-            return results;
+            return answer;
         }
-        public int Math2(decimal num2)
+        public int Math1(double num1)
         {
-            int results = Convert.ToInt32(num2);
-            int answer2 = results / 5;
-            return answer2;
+            int results = Convert.ToInt32(num1);
+            int answer = results / 5;
+            return answer;
 
             
         }
-        public int Math3(string num1)
+        public int Math1(string num1)
         {
             int results = Convert.ToInt32(num1);
-            int answer2 = results + 100;
-            return answer2;
+            int answer = results + 100;
+            return answer;
 
 
-            return results;
+            
         }
     }
 }
