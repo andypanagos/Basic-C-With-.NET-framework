@@ -23,33 +23,32 @@ namespace Lambda
                 EmployeeList.Add(new Employee() { FirstName = "Mike", LastName = "Williams", ID = 9 });
                 EmployeeList.Add(new Employee() { FirstName = "Ben", LastName = "Simmonds", ID = 10 });
 
-                Console.WriteLine("Employees named Joe: ");
-                Console.ReadLine();
 
-                Console.WriteLine("\n");
-
-                foreach(Employee employee in EmployeeList)
+                //foreach loop
+                int i = 0;
+                List<Employee> joeList = new List<Employee>();
+                foreach (Employee employee in EmployeeList)
                 {
                     if ( employee.FirstName == "Joe")
                     {
-                        Console.WriteLine(employee.FirstName + " " + employee.LastName);
+                        joeList.Add(employee);
+                        i++;
                     }
                 }
                 Console.ReadLine();
 
-                List<Employee> joeList = EmployeeList.Where(x => x.FirstName == "Joe").ToList();
+
+                //lambda expression
 
                 List<Employee> idList = EmployeeList.Where(x => x.ID > 5).ToList();
 
-                Console.WriteLine("Employees with ID greater than 5");
+
+                
+
+
                 Console.ReadLine();
 
-                List<Employee> EmployeeList3 = EmployeeList.Where(x => x.ID > 5).ToList();
-                foreach (Employee employee in EmployeeList3)
-                {
-                    Console.WriteLine(employee.FirstName + " " + employee.LastName + " " + employee.ID);
-                }
-                Console.ReadLine();
+
             }
         }
     }

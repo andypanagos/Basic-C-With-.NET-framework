@@ -1,0 +1,7 @@
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Datetime\Datetime\bin\Debug\Datetime.exe.config
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Datetime\Datetime\bin\Debug\Datetime.exe
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Datetime\Datetime\bin\Debug\Datetime.pdb
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Datetime\Datetime\obj\Debug\Datetime.csproj.CoreCompileInputs.cache
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Datetime\Datetime\obj\Debug\Datetime.exe
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Datetime\Datetime\obj\Debug\Datetime.pdb
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Datetime\Datetime\obj\Debug\Datetime.csproj.AssemblyReference.cache
