@@ -37,7 +37,9 @@ namespace Lambda
                 }
                 Console.ReadLine();
 
-                
+                List<Employee> joeList = EmployeeList.Where(x => x.FirstName == "Joe").ToList();
+
+                List<Employee> idList = EmployeeList.Where(x => x.ID > 5).ToList();
 
                 Console.WriteLine("Employees with ID greater than 5");
                 Console.ReadLine();
