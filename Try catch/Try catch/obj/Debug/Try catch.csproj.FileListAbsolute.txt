@@ -1,0 +1,7 @@
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Try catch\Try catch\bin\Debug\Try catch.exe.config
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Try catch\Try catch\bin\Debug\Try catch.exe
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Try catch\Try catch\bin\Debug\Try catch.pdb
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Try catch\Try catch\obj\Debug\Try catch.csproj.AssemblyReference.cache
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Try catch\Try catch\obj\Debug\Try catch.csproj.CoreCompileInputs.cache
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Try catch\Try catch\obj\Debug\Try catch.exe
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Try catch\Try catch\obj\Debug\Try catch.pdb

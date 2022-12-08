@@ -10,11 +10,12 @@ namespace Constructor
     {
         static void Main(string[] args)
         {
-
+            //const variable
             const string conString = "Hello";
             Console.WriteLine(conString);
-
+            //variable keyword
             var mySelf = "Andy";
+
 
             user sayUser = new user();
             sayUser.SayName();
