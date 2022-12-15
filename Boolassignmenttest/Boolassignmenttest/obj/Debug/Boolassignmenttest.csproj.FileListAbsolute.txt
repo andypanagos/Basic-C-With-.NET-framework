@@ -1,0 +1,1 @@
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\Boolassignmenttest\Boolassignmenttest\obj\Debug\Boolassignmenttest.csproj.CoreCompileInputs.cache

@@ -1,0 +1,2 @@
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\NewsLetterAppMVCTest\NewsLetterAppMVCTest\obj\Debug\NewsLetterAppMVCTest.csproj.AssemblyReference.cache
+C:\Users\andyp\Desktop\Basic_C#_Programs\Basic-C-With-.NET-framework\NewsLetterAppMVCTest\NewsLetterAppMVCTest\obj\Debug\NewsLetterAppMVCTest.csproj.CoreCompileInputs.cache

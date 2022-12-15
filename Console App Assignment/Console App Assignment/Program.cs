@@ -22,8 +22,7 @@ namespace Console_App_Assignment
             stringArray.Add("sprite");
             stringArray.Add("ginger ale");
 
-            //do
-            //{
+           
                 Console.WriteLine("What is your name?: ");
                 string name = Console.ReadLine();
 
