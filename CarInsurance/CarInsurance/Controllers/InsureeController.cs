@@ -126,7 +126,7 @@ namespace CarInsurance.Controllers
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
-        
+
         public ActionResult CalculateQuote(Insuree insuree)
         {
             insuree.Quote = 50; // base price
@@ -157,25 +157,25 @@ namespace CarInsurance.Controllers
                 insuree.Quote += 25;
             }
 
-            
-            if (insuree.CarMake.ToLower() == "Porsche")
+
+            if (insuree.CarMake == "Porsche" )
             {
-                insuree.Quote += 25;                
-            }
-
-
-            if (insuree.CarModel.ToLower() == "911 Carrera")
-            { 
                 insuree.Quote += 25;
             }
 
-            int speedingtickets = insuree.SpeedingTickets; 
+
+            if (insuree.CarModel == "911 Carrera" && insuree.CarMake == "Porsche")
+            {
+                insuree.Quote += 25;
+            }
+
+            int speedingtickets = insuree.SpeedingTickets;
 
             if (speedingtickets > 0)
             {
                 insuree.Quote += (speedingtickets * 10);
             }
-            if(insuree.DUI)
+            if (insuree.DUI)
             {
                 insuree.Quote *= 1.25m;
             }
@@ -187,5 +187,10 @@ namespace CarInsurance.Controllers
 
             return View(insuree);
         }
+        public ActionResult Admin()
+        {
+             return View(db.Insurees.ToList());
+        }
+        
     }    
 }
